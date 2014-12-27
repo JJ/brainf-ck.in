@@ -6,7 +6,7 @@ body {
   padding: 0;
   background: #151515 url("../images/bkg.png") 0 0;
   color: #eaeaea;
-  font: 18px;
+  font: 24px;
   line-height: 1.5;
   font-family: "Clicker Script", "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
