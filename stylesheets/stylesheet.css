@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Averia+Libre);
+@import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
 body {
   margin: 0;
@@ -7,7 +8,7 @@ body {
   color: #eaeaea;
   font: 18px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: "Clicker Script", "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
 /* General & 'Reset' Stuff */
